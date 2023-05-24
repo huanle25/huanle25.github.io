@@ -31,3 +31,10 @@
     width: 50%;
     flex-direction: column;
 }
+
+.col-md-3 {
+    margin-top: 1.25rem;
+    margin-bottom: 0rem;
+    flex: 0 0 25%;
+    max-width: 25%;
+  }

@@ -53,8 +53,11 @@ h1 {
   .flex {
     display: flex;
   }
+  .mt-1{
+    margin-top: 1.25rem;
+  }
   .mt-8 {
-    margin-top: 2rem;
+    margin-top: 1.25rem;
   }
   .ml-1 {
     margin-left: .25rem;
@@ -72,4 +75,17 @@ h1 {
   }
   .mr-5 {
     margin-right: 1.25rem;
+  }
+
+  .w-80 {
+    width: 80%;
+  }
+  .rounded {
+    border-radius: .25rem;
+  }
+  img, svg {
+    vertical-align: middle;
+  }
+  img {
+    border-style: none;
   }
