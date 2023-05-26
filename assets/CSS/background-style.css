@@ -118,12 +118,16 @@ img {
     padding-left: .75rem;
     padding-right: .75rem;
   }
-  
+
 footer {
     padding-bottom: 0;
     font-size: .875rem;
     line-height: 1.25rem;
     max-width: 28rem;
-    margin-top: 5rem;
-    
+    margin-top: 5rem;    
   }
+
+.noline {
+    text-decoration: none;
+    color: rgb(231, 239, 250)
+}
