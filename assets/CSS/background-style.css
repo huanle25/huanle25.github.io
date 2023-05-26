@@ -11,7 +11,16 @@ body {
     background-color: #172442;
     color: rgb(172, 195, 228);
 }
-
+.biglayout{
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    min-height: 100vh;
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+}
 h1 {
     font-size: 3rem;
     line-height: 1;
